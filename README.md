@@ -1,38 +1,47 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hey, I'm Muhammad Abdullah Shakir</h1>
-<h3 align="center">🚀 Full Stack Developer | 🤖 AI & ML Enthusiast | 🇵🇰 From Pakistan</h3>
+<!-- Modern GitHub Profile README -->
+
+<h1 align="center">Hi there, I'm <span style="color:#0f62fe;">Muhammad Abdullah Shakir</span> 👋</h1>
+<h3 align="center">🚀 Full Stack Developer | 🤖 AI & ML Enthusiast | 🌍 Based in Pakistan</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-abdullah111"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/muhammad_abdullah_shakir?igsh=b2pnNXc0MWxvYnFt"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <img src="https://komarev.com/ghpvc/?username=muhammadabdullahshakir&style=flat-square&color=brightgreen" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/muhammad-abdullah111" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/muhammad_abdullah_shakir?igsh=b2pnNXc0MWxvYnFt" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=muhammadabdullahshakir&style=for-the-badge&color=brightgreen" alt="Profile Views">
 </p>
 
 ---
 
-### 💡 About Me
+## 👨‍💻 About Me
 
-- 🧠 Passionate about turning **ideas into code** and making tech **human-centered**.
-- 🎓 CS graduate deeply into **AI, ML, DL**, and **Full Stack Development**.
-- 🛠️ Skilled in `React`, `React Native`, `Django`, `Node.js`, `Express`, `MongoDB`, and more.
-- 💬 Ask me about `Web Apps`, `Mobile Apps`, or `Machine Learning` — I'm always up for a chat!
-- ✍️ Sharing thoughts, code, and progress along the journey.
-- 🧘‍♂️ I enjoy philosophy — Nietzsche, Socrates, and Plato keep me questioning.
+- 🎓 CS Graduate passionate about **human-centered technology**.
+- ⚡ Focused on merging **Full Stack Development** with **AI/ML innovation**.
+- 💬 Always open to talk about `React`, `Django`, `Machine Learning`, and building impactful tech.
+- ✍️ Blogging my thoughts, experiences, and lessons.
+- 🧘‍♂️ Curious thinker — drawing inspiration from **Socrates, Nietzsche, and Plato**.
 
 ---
 
-### 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,reactnative,tailwind,nodejs,express,django,mongodb,postgres,mysql,sqlite,python,git,github,vscode,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,reactnative,nodejs,express,django,python,mongodb,postgres,mysql,sqlite,tailwind,docker,git,github,vscode,linux" />
 </p>
 
 ---
 
-### 🌐 Let's Connect
+## 🔗 Let's Connect
 
-- 📍 Pakistan  
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-abdullah111)  
+- 🌍 Currently in: **Pakistan**
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/muhammad-abdullah111)
 - 📷 [Instagram](https://www.instagram.com/muhammad_abdullah_shakir?igsh=b2pnNXc0MWxvYnFt)
 
 ---
+
+<!-- Optional Footer Section -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadabdullahshakir&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
