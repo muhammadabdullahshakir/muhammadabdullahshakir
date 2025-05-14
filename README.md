@@ -10,7 +10,6 @@
   <a href="https://www.instagram.com/muhammad_abdullah_shakir?igsh=b2pnNXc0MWxvYnFt" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=muhammadabdullahshakir&style=for-the-badge&color=brightgreen" alt="Profile Views">
 </p>
 
 ---
@@ -21,7 +20,7 @@
 - ⚡ Focused on merging **Full Stack Development** with **AI/ML innovation**.
 - 💬 Always open to talk about `React`, `Django`, `Machine Learning`, and building impactful tech.
 - ✍️ Blogging my thoughts, experiences, and lessons.
-- 🧘‍♂️ Curious thinker — drawing inspiration from **Socrates, Nietzsche, and Plato**.
+- 🕶️ Not just seeing the glitches in the Matrix — **I’m learning to rewrite its code**.
 
 ---
 
