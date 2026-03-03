@@ -1,7 +1,7 @@
 <!-- Modern GitHub Profile README -->
 
 <h1 align="center">Hi there, I'm <span style="color:#0f62fe;">Muhammad Abdullah Shakir</span> 👋</h1>
-<h3 align="center">🚀 Full Stack Developer | 🤖 AI & ML Enthusiast | 🌍 Based in Pakistan</h3>
+<h3 align="center">🚀 Full Stack Developer | 🌍 Based in Pakistan</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-abdullah111" target="_blank">
@@ -17,8 +17,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 CS Graduate passionate about **human-centered technology**.
-- ⚡ Focused on merging **Full Stack Development** with **AI/ML innovation**.
-- 💬 Always open to talk about `React`, `Django`, `Machine Learning`, and building impactful tech.
+- ⚡ Focused on merging **Full Stack Development**.
+- 💬 Always open to talk about `React`, `Node`, `Express`, and building impactful tech.
 - ✍️ Blogging my thoughts, experiences, and lessons.
 - 🕶️ Not just seeing the glitches in the Matrix — **I’m learning to rewrite its code**.
 
